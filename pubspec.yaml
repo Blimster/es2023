@@ -1,15 +1,7 @@
 name: es2023
-description: A sample command-line application.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+description: Bindings for the ECMAScript 2023 specification.
+version: 0.1.0
+repository: https://github.com/blimster/es2023
 
 environment:
-  sdk: ^3.8.1
-
-# Add regular dependencies here.
-dependencies:
-  # path: ^1.8.0
-
-dev_dependencies:
-  lints: ^5.0.0
-  test: ^1.24.0
+  sdk: ^3.4.0
